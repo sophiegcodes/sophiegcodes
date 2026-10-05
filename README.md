@@ -170,7 +170,7 @@ If you're working on something interesting, let's talk! ☕💬
 
 ### 🐛 Find it. 🔍 Understand it. 🤖 Automate it. 🚀 Improve it.
 
-## Keep coding. Keep testing. Keep learning. ✨
+## Keep coding. Keep testing. Keep learning . ✨
 
 </p>
 
