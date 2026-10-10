@@ -162,7 +162,7 @@ I'm always interested in connecting with people who are passionate about:
 🌎 Inclusive Digital Experiences
 🤝 Collaboration & Community
 
-If you're working on something interesting, let's talk! ☕💬
+If you're working on something interesting,  let's talk! ☕💬
 
 ---
 
