@@ -16,6 +16,7 @@ I'm a **Software QA Engineer** who enjoys turning complex requirements into reli
 
 🧩 Experienced in designing and maintaining automated tests, writing clear test documentation, investigating defects, and collaborating with cross-functional teams.
 
+
 ⚖️ Before moving into tech, I worked in **administrative and business administration roles** — experiences that strengthened my attention to detail, organization, documentation, and analytical thinking.
 
 💡 I bring that same mindset into QA: **understand the requirement → think like the user → test beyond the happy path → automate what matters → improve continuously.**
