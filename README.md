@@ -40,9 +40,9 @@ I'm a **Software QA Engineer** who enjoys turning complex requirements into reli
 
 **Java** • **Selenium** • **Cucumber** • **TestNG** • **JUnit** • **Maven**
 
-**JavaScript** • **TypeScript** • **Python**  • **Playwright**
+**JavaScript** • **TypeScript** • **Playwright**
 
-☁️ **AWS**
+
 
 ---
 
@@ -60,7 +60,7 @@ I enjoy testing beyond the UI — validating APIs, data, integrations, and the p
 
 **Visual Studio Code** • **IntelliJ IDEA** • **PyCharm**
 
-**Jenkins** • **BrowserStack** • **AWS** • **GitHub Copilot**
+**Jenkins** • **BrowserStack** • **GitHub Copilot**
 
 ---
 
