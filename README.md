@@ -10,7 +10,7 @@ I'm a **Software QA Engineer** who enjoys turning complex requirements into reli
 
 ## 🎤 A Little About Me
 
-🧑‍💻 **ISTQB® Certified Software QA Engineer** with hands-on experience testing **SaaS and E-Commerce applications**.
+🧑‍💻 **Software QA Engineer** with hands-on experience testing **SaaS and E-Commerce applications**.
 
 🔎 Passionate about **software quality, test automation, and creating reliable user experiences**.
 
