@@ -1,4 +1,4 @@
-# 👋 Hi,  I'm Sophie!
+# 👋 Hi,  I'm Pelin Sophie!
 
 ### 🧪 Software QA Engineer | Test Automation | Quality Enthusiast
 
